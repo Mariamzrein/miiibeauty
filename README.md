@@ -22,7 +22,7 @@ MII Beauty is a React-based beauty website that allows users to explore beauty p
 
 ## Installation Instructions
 
-1. git clone https://github.com/Mariamzrein/miibeauty.git
+1. git clone https://github.com/Mariamzrein/miiibeauty.git
 2. cd miibeauty
 3. Install dependencies:
    `npm install`
