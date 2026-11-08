@@ -1,0 +1,27 @@
+main{
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: normal;
+    color: #333;
+    text-decoration: none;
+    padding: 40px;
+}
+
+.Welcome {
+    font-weight: bold;
+}
+
+.by {
+    font-family: "Times New Roman", cursive;
+    font-style: italic;
+    font-size: 45px;
+}
+
+.home {
+    font-size: 25px;
+    color: #401216;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-style: solid;
+    text-decoration-thickness: 3px;
+}
