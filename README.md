@@ -22,19 +22,14 @@ MII Beauty is a React-based beauty website that allows users to explore beauty p
 
 ## Installation Instructions
 
-1. Clone the repository:
-   `git clone YOUR_GITHUB_REPOSITORY_LINK`
-
-2. Open the project folder:
-   `cd miibeauty-new`
-
+1. git clone https://github.com/Mariamzrein/miibeauty.git
+2. cd miibeauty
 3. Install dependencies:
    `npm install`
 
 4. Start the application:
    `npm start`
 
-## Screenshots
 ## Screenshots
 
 ### Home Page
@@ -72,3 +67,6 @@ Mariam Zrein 22231009
 
 ## Course
 CSCI426 – Advanced Web Programming
+## Live Website
+
+Visit MII Beauty: (https://miiibeauty.vercel.app/)
